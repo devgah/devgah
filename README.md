@@ -44,7 +44,7 @@ java 21   gdscript   python   php   react   html   css   mysql   git
 ```
 
 ## contato
-
+- LinkedIN: [Gabriel Moleta Rossi]((https://www.linkedin.com/in/gabriel-moleta-rossi-8aa061348/))
 - github: [@devgah](https://github.com/devgah)
 - pages: [secret-sentinel](https://devgah.github.io/secret-sentinel/)
 
