@@ -1,8 +1,10 @@
+```text
 ██████  ███████ ██    ██  █████   ██████ ██   ██
 ██   ██ ██      ██    ██ ██   ██ ██      ██   ██
 ██   ██ █████   ██    ██ ███████ ██      ███████
 ██   ██ ██       ██  ██  ██   ██ ██      ██   ██
 ██████  ███████   ████   ██   ██  ██████ ██   ██
+```
 
 [![profile](https://img.shields.io/badge/profile-devgah-2ea44f?logo=github&logoColor=white)](https://github.com/devgah)
 [![java](https://img.shields.io/badge/Java-21-007396?logo=openjdk&logoColor=white)](https://www.java.com)
